@@ -11,4 +11,18 @@
     <string name="start_button">start</string>
     <string name="stop_button">stop</string>
     <string name="timer_waiting_for_input">Please put in the time and tap the start button</string>
+    <string name="to_routine_creation">Create new routine</string>
+    <string name="create_group_button">Create a new group</string>
+    <string name="add_exercise">Add a new exercise</string>
+    <string name="enter_exercise_name">Enter exercise name</string>
+    <string name="reps_only">Reps only</string>
+    <string name="time_only">Time only</string>
+    <string name="reps_and_weight">Reps and weight</string>
+    <string name="add_button">Add</string>
+    <string name="clear_all_exercises_button">Clear all exercises (irrevertable)</string>
+    <string-array name="exercise_types_array">
+        <item>Reps</item>
+        <item>Reps and Weights</item>
+        <item>Time</item>
+    </string-array>
 </resources>

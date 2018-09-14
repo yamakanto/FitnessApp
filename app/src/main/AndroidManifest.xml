@@ -35,7 +35,9 @@
             android:name="android.support.PARENT_ACTIVITY"
             android:value=".MainActivity" />
 
-        <activity android:name=".MidWorkoutTimer"></activity>
+        <activity android:name=".MidWorkoutTimer" />
+        <activity android:name=".RoutineCreationActivity" />
+        <activity android:name=".AddExerciseActivity"></activity>
     </application>
 
 </manifest>

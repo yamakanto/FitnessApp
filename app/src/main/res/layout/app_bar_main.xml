@@ -22,7 +22,8 @@
 
     <include
         layout="@layout/content_main"
-        android:layout_height="453dp" />
+        android:layout_height="453dp"
+         />
 
     <android.support.design.widget.FloatingActionButton
         android:id="@+id/createButton"
